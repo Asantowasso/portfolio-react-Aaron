@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import NavTabs from "./NavTabs";
 import Home from "./pages/Home";
+import myWork from "./pages/myWork";
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState("Home");
@@ -9,18 +10,18 @@ export default function PortfolioContainer() {
     if (currentPage === "Home") {
       return <Home />;
     }
+    if (currentPage === "myWork"){
+      return <myWork />;
+    }
   };
 
   const handlePageChange = (page) => setCurrentPage(page);
 
-  return(
+  return (
     <div>
-      <NavTabs currentPage={currentPage}
-      handlePageChange =
-      {handlePageChange} />
+      <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
 
       {renderPage()}
-
     </div>
-  )
+  );
 }
