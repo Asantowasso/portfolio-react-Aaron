@@ -9,12 +9,13 @@
   float: left;
   font-weight: 300;
   display: inline;
-  padding-right: 250px;
+  padding-right: 240px;
+  
 }
 
 .navbar a {
   text-decoration: none;
   display: block;
-  padding: 8px; 
+  padding: 10px; 
   color: rgb(22, 21, 21)
 }
