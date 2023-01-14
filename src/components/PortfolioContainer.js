@@ -3,6 +3,8 @@ import NavTabs from './NavTabs';
 import Home from './pages/Home';
 import Work from './pages/Work';
 import Resume from './pages/Resume';
+import Contact from './pages/Contact';
+
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState("Home");
@@ -16,6 +18,9 @@ export default function PortfolioContainer() {
     }
     if (currentPage === "Resume"){
       return <Resume />;
+    }
+    if (currentPage === "Contact"){
+      return <Contact />;
     }
   };
 
