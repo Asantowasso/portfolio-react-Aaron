@@ -1,10 +1,11 @@
 import React from "react";
+import '../styles/Navbar.css';
 
 // The user will be able to navigate the portfolio using navigation tabs at the top of the page
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav nav-tabs">
+    <ul className="navbar">
       <li className="nav-item">
         <a
           href="#home"
