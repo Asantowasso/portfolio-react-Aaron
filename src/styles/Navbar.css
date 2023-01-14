@@ -6,10 +6,10 @@
 }
 
 .navbar li {
-  float: right;
+  float: left;
   font-weight: 300;
   display: inline;
-  padding-right: 150px;
+  padding-right: 250px;
 }
 
 .navbar a {

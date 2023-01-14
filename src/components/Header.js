@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/Header.css';
 
 //This is the header section it will be visible across all of the pages
 
