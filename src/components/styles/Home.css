@@ -1,9 +1,11 @@
 .home {
-  background-color: aqua;
+  background-color: rgba(48, 155, 155, 0.733);
+  border-radius: 35px;
   text-align: left;
   padding-left: 75px;
 }
 
 .home p{
   padding-left: 80px;
+  padding-bottom: 18px;
 }
