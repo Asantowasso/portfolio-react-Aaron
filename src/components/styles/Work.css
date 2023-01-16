@@ -1,0 +1,17 @@
+.projects {
+  list-style-type: none;
+  background-color: rgba(48, 155, 155, 0.733);
+  border-radius: 35px;
+  margin: 0;
+  padding-left: 80px;
+  padding-bottom: 80px;
+}
+
+.projects li {
+  float: left;
+  font-weight: 300;
+  display: inline;
+  padding-right: 250px;
+  padding-bottom: 50px;
+}
+

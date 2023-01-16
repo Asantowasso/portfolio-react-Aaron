@@ -1,6 +1,8 @@
 import React from "react";
 
-// This will serve as the contact page where visitors will find ways to contact me
+// This will serve as the contact page where visitors will find ways to contact me.
+
+// The page features a form where visitors can enter their name, email and a message for me to view.
 
 export default function Contact() {
   return (
