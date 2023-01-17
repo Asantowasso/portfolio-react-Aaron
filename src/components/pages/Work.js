@@ -15,24 +15,37 @@ export default function Work() {
         <h3>Pet-to-Vet</h3>
       <img src= {vet} class="image__img" alt="Vet with a kitten and puppy" width="320" height="200"/>
       <div class= "image__overlay">
-
+        <div class ="image__title">Text</div>
+        <p class="image__description">Here are the links</p>
       </div>
       </li>
 
       <li>
         <h3>Social Media API</h3>
         <img src= {api}  alt="Represents the features of an application to store and manage information about users" width="320" height="200"/>
+        <div class= "image__overlay">
+        <div class ="image__title">Text</div>
+        <p class="image__description">Here are the links</p>
+      </div>
       </li>
 
       <li>
         <h3>Moonbucks</h3>
         <img src= {coffee} alt="Represents the features of an application to store and manage information about users" width="320" height="200"/>
+        <div class= "image__overlay">
+        <div class ="image__title">Text</div>
+        <p class="image__description">Here are the links</p>
+      </div>
 
       </li>
 
       <li>
         <h3>Text editor</h3>
         <img src= {typing} alt="a person typing on a laptop keyboard" width="320" height="200"/>
+        <div class= "image__overlay">
+        <div class ="image__title">Text</div>
+        <p class="image__description">Here are the links</p>
+      </div>
       </li>
 
     </ul>
