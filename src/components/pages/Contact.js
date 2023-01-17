@@ -21,14 +21,15 @@ function Contact() {
     } else if (inputType === "name") {
       setName(inputValue);
     } else {
-      setMessage(inputValue === "message");
+      setMessage(inputValue);
+      
     }
   };
 
   const handleFormSubmit = (e) => {
     e.preventDefault();
 
-    if (!validateEmail(email) || !name) {
+    if (!validateEmail(email) || !name || !message) {
       setErrorMessage("Email or Name is invalid");
 
       return;
@@ -49,6 +50,7 @@ function Contact() {
           name="name"
           onChange={handleInputChange}
           type="text"
+          size= "35"
           placeholder="Your Name"
         />
 
@@ -58,6 +60,7 @@ function Contact() {
           name="email"
           onChange={handleInputChange}
           type="text"
+          size= "35"
           placeholder="Your email address"
         />
 
