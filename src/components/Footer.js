@@ -9,9 +9,9 @@ function Footer() {
   return (
   
   <ul className="footer">
-  <li><img src = {git} alt="github logo "width="75" height="75"/></li>
-  <li><img src = {Linkedin} alt="github logo "width="75" height="75"/></li>
-  <li><img src = {Stack} alt="github logo "width="75" height="75"/></li>
+  <li><a href = "https://github.com/Asantowasso"><img src = {git} alt="github logo "width="75" height="75"/></a></li>
+  <li><a href = "www.linkedin.com/in/aaron-santowasso-a1bb45210"><img src = {Linkedin} alt="github logo "width="75" height="75"/></a></li>
+  <li><a href = "https://stackoverflow.com/users/21032515/aaronas"> <img src = {Stack} alt="github logo "width="75" height="75"/></a></li>
   </ul>
   
   
