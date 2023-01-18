@@ -6,7 +6,12 @@ export default function Resume() {
   return (
     <div className="resume">
       <h1>Resume</h1>
-      <h2>Download Resume</h2>
+      <h2>
+        Download Resume{" "}
+        <a href="https://www.dropbox.com/scl/fi/hlo0dc95396pgz20uz4mz/Aaron-Resume-Updated-August-2022.docx?dl=0&rlkey=p5atfflpbyk7e91lztnnzmmou">
+          <button>Click Here</button>
+        </a>{" "}
+      </h2>
 
       <ul>
         <h3>Proficiencies-Front End</h3>
