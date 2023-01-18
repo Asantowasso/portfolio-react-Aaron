@@ -7,5 +7,14 @@
 
 .home p{
   padding-left: 80px;
+  
   padding-bottom: 18px;
+  padding-right: 10px;
 }
+
+.home img {
+  float: left;
+ 
+  border-radius: 50px;
+}
+
