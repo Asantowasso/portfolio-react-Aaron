@@ -29,6 +29,17 @@ This is a React application meaning it can be installed by typing the command np
 This application was created by Aaron Santowasso with assistance from code derived from class materials that are part of the course.
 
 ## images
+<img src = "assets/reacthome.jpg">
+The home page
+<img src = "assets/reactmywork.jpg">
+A selection of my work
+
+<img src = "assets/reactresume.jpg">
+A list of my skills and link to download my full resume
+
+<img src = "assets/reactcontact.jpg">
+A form where visitors can submit their email address with an attached message
+
 
 
 
