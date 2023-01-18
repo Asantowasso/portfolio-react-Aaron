@@ -26,7 +26,7 @@ export default function Work() {
         />
         <div class="image__overlay">
           <div class="image__title">Create a profile for your pet</div>
-          <p class="image__description"> Github Deployed</p>
+          <p class="image__description"> <a href = "https://github.com/Asantowasso/pet-to-vet">Github</a> <a href = "https://damp-forest-39395.herokuapp.com/login"> Deployed</a></p>
         </div>
       </li>
 
@@ -40,7 +40,7 @@ export default function Work() {
         />
         <div class="image__overlay">
           <div class="image__title">Find and manage user profiles</div>
-          <p class="image__description">Github Demonstration</p>
+          <p class="image__description"><a href = "https://github.com/Asantowasso/Social-api-Aaron">Github</a> <a href= "https://drive.google.com/file/d/1e66kPc6XpYh-KxASAZ5azrFmF9Rurcrr/view">Demonstration</a></p>
         </div>
       </li>
 
@@ -56,7 +56,7 @@ export default function Work() {
           <div class="image__title">
             A mock website featuring a currency coverter
           </div>
-          <p class="image__description">Github Deployed</p>
+          <p class="image__description"><a href="https://github.com/Asantowasso/Group3-projectMoonbucks">Github</a> <a href= "https://asantowasso.github.io/Group3-projectMoonbucks/">Deployed</a></p>
         </div>
       </li>
 
@@ -72,7 +72,7 @@ export default function Work() {
           <div class="image__title">
             PWA that can be run in the browser or installed
           </div>
-          <p class="image__description">Github Deployed</p>
+          <p class="image__description"><a href="https://github.com/Asantowasso/text-editor-Aaron">Github</a> <a href="https://hidden-inlet-47886.herokuapp.com/">Deployed</a></p>
         </div>
       </li>
     </ul>
