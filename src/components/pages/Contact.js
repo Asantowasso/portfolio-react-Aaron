@@ -22,7 +22,6 @@ function Contact() {
       setName(inputValue);
     } else {
       setMessage(inputValue);
-      
     }
   };
 
@@ -50,7 +49,7 @@ function Contact() {
           name="name"
           onChange={handleInputChange}
           type="text"
-          size= "35"
+          size="35"
           placeholder="Your Name"
         />
 
@@ -60,7 +59,7 @@ function Contact() {
           name="email"
           onChange={handleInputChange}
           type="text"
-          size= "35"
+          size="35"
           placeholder="Your email address"
         />
 
@@ -74,10 +73,12 @@ function Contact() {
           type="text"
           placeholder="What do you want to say?"
         />
-        <button type="button" className="button" onClick={handleFormSubmit}>
-          Submit
-        </button>
       </form>
+      <br></br>
+      <button type="button" className="button" onClick={handleFormSubmit}>
+        Submit
+      </button>
+
       {errorMessage && (
         <div>
           <p className="error-text">{errorMessage}</p>
