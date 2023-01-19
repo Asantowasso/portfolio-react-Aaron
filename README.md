@@ -9,7 +9,7 @@
 - [Credits](#credits)
 - [Images](#images)
 - [Repository](#repository)
-- [Heroku](#heroku) 
+- [Deployed](#deployed) 
 - [License](#license)
 
 ## Description
@@ -45,11 +45,11 @@ A form where visitors can submit their email address with an attached message
 
 ## Repository
 
-Gihub Repository- https://github.com/Asantowasso?tab=overview&from=2023-01-01&to=2023-01-18
+Github Repository- https://github.com/Asantowasso?tab=overview&from=2023-01-01&to=2023-01-18
 
-## Heroku
+## Deployed 
 
-Link to Heroku app-
+Link to deployed app- https://asantowasso.github.io/portfolio-react-Aaron/
 
 ## License
 
