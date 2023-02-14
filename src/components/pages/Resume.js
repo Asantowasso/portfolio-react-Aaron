@@ -28,6 +28,13 @@ export default function Resume() {
         <li>SQL</li>
         <li>MongoDB</li>
       </ul>
+
+      <iframe
+        src="https://www.dropbox.com/scl/fi/hlo0dc95396pgz20uz4mz/Aaron-Resume-Updated-August-2022.docx?dl=0&rlkey=p5atfflpbyk7e91lztnnzmmou"
+        width="1135"
+        height="600"
+        title="resume"
+      ></iframe>
     </div>
   );
 }

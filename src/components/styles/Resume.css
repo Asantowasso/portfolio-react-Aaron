@@ -1,10 +1,22 @@
 .resume {
-  background-color: rgba(48, 155, 155, 0.733);
+  background-color: #242038;
   border-radius: 35px;
   text-align: left;
   padding-left: 75px;
+  padding-top: 75px;
   padding-bottom: 18px;
-  
+}
+
+.resume h1 {
+  color: #cac4ce;
+}
+
+.resume h2 {
+  color: #cac4ce;
+}
+
+.resume ul {
+  color: #cac4ce;
 }
 
 .resume button {
@@ -18,5 +30,3 @@
   border-radius: 40px;
   font-size: 16px;
 }
-
-  

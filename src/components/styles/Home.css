@@ -1,11 +1,21 @@
 .home {
-  background-color: rgba(48, 155, 155, 0.733);
+  background-color: #242038;
   border-radius: 35px;
   text-align: left;
+  padding-top: 75px;
   padding-left: 75px;
 }
 
-.home p{
+.home h1 {
+  color: #cac4ce;
+}
+
+.home h2 {
+  color: #cac4ce;
+}
+
+.home p {
+  color: #cac4ce;
   padding-left: 80px;
   padding-bottom: 18px;
   padding-right: 10px;
@@ -13,7 +23,5 @@
 
 .home img {
   float: left;
- 
-  border-radius: 50px;
+  border-radius: 60px;
 }
-
