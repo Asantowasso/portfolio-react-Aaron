@@ -9,22 +9,13 @@ export default function Home() {
       <h1>Home</h1>
       <div class="avi">
         <img src={Aaronimg} alt="My Picture" width="100" height="100" />
-        
       </div>
 
       <h2>About Aaron</h2>
 
-      <p>
-        My name is Aaron Santowasso. I am a recent graduate of the coding
-        bootcamp provided through the University of Richmond. I am interested in
-        pursuing a career in web or software development.{" "}
-      </p>
-      <p>
-        This course has not only taught me the skills I will need in order to be
-        a successful employee, it has also given me valuable lessons in time
-        management and working alongside others. On this site you will find a
-        portfolio of my work, my resume and means of contacting me.{" "}
-      </p>
+      <h3>Thanks for visiting my page. Here you will find information about my work, how to contact me and my up to date resume.</h3>
+      <h3>More about Aaron-</h3>
+      <p>I'm Aaron Santowasso. I just recently graduated from a full stack development bootcamp provided through the University of Richmond. I have experience working on every aspect of a web application. This means I can build and style a front end with HTML, CSS or JSX. However I am also well versed in technologies that power the backend of applications and websites. These include SQL, MongoDB and RESTful. I am currently looking for junior development roles. I would prefer remote work but am willing to relocate.</p>
     </div>
   );
 }
