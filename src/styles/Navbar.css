@@ -2,7 +2,6 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
-  
 }
 
 .navbar li {
@@ -11,29 +10,25 @@
   display: inline;
   padding-right: 110px;
   padding-left: 110px;
- 
-  
 }
 
 .navbar a {
   text-decoration: none;
   display: block;
   padding: 10px;
-  color: #CAC4CE ;
-  font-size: 20px ;
+  color: #cac4ce;
+  font-size: 20px;
 }
 
 .nav-item {
-  
   font-size: 18px;
 }
 
 .nav-item a {
-  background-color: #9067C6;
+  background-color: #9067c6;
   border-radius: 50px;
 }
 
 .nav-item a:hover {
   color: white;
-
 }
