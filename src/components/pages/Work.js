@@ -89,7 +89,7 @@ export default function Work() {
           <div class="image__title">
            Test your knowledge of world Geography
           </div>
-          <p class="image__description"><a href="https://github.com/Asantowasso/text-editor-Aaron">Github</a> <a href="https://hidden-inlet-47886.herokuapp.com/">Deployed</a></p>
+          <p class="image__description"><a href="https://github.com/Asantowasso/Aaron-geography-quiz">Github</a> <a href="https://hidden-inlet-47886.herokuapp.com/">Deployed</a></p>
         </div>
       </li>
 
@@ -105,7 +105,7 @@ export default function Work() {
           <div class="image__title">
           Create a profile and make a reservation
           </div>
-          <p class="image__description"><a href="https://github.com/Asantowasso/text-editor-Aaron">Github</a> <a href="https://hidden-inlet-47886.herokuapp.com/">Deployed</a></p>
+          <p class="image__description"><a href="https://github.com/Asantowasso/project-3-gastronauts">Github</a> <a href="https://safe-badlands-66151.herokuapp.com/">Deployed</a></p>
         </div>
       </li>
     </ul>

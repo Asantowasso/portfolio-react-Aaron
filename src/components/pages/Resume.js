@@ -8,7 +8,7 @@ export default function Resume() {
       <h1>Resume</h1>
       <h2>
         Download Resume{" "}
-        <a href="https://www.dropbox.com/scl/fi/hlo0dc95396pgz20uz4mz/Aaron-Resume-Updated-August-2022.docx?dl=0&rlkey=p5atfflpbyk7e91lztnnzmmou">
+        <a href="https://docs.google.com/document/d/1OedBMVQNpG44xlkVA69tEOXoZOJmwglziv4Vh6NS3FE/edit?usp=sharing">
           <button>Click Here</button>
         </a>{" "}
       </h2>
@@ -30,7 +30,7 @@ export default function Resume() {
       </ul>
 
       <iframe
-        src="https://www.dropbox.com/scl/fi/hlo0dc95396pgz20uz4mz/Aaron-Resume-Updated-August-2022.docx?dl=0&rlkey=p5atfflpbyk7e91lztnnzmmou"
+        src="https://docs.google.com/document/d/1OedBMVQNpG44xlkVA69tEOXoZOJmwglziv4Vh6NS3FE/preview"
         width="1135"
         height="600"
         title="resume"
