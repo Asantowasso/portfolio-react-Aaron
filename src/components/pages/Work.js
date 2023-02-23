@@ -89,7 +89,7 @@ export default function Work() {
           <div class="image__title">
            Test your knowledge of world Geography
           </div>
-          <p class="image__description"><a href="https://github.com/Asantowasso/Aaron-geography-quiz">Github</a> <a href="https://hidden-inlet-47886.herokuapp.com/">Deployed</a></p>
+          <p class="image__description"><a href="https://github.com/Asantowasso/Aaron-geography-quiz">Github</a> <a href="https://asantowasso.github.io/Aaron-geography-quiz/">Deployed</a></p>
         </div>
       </li>
 
