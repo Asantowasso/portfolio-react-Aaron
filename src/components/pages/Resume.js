@@ -14,10 +14,17 @@ export default function Resume() {
       </h2>
 
       <ul>
-        <h3>Proficiencies-Front End</h3>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
+        <h3>Work History</h3>
+        <li><i>Campus Tech</i>- Compucom</li>
+        <p>May 2022-Present</p>
+        <p>Resolve common software and hardware issues for clients. Help new hires obtain needed correct software and peripherals. Create documentation to teach clients and coworkers about new technologies and procedures. Consistently close most support tickets per month in mid-Atlantic group.</p>
+        <li><i>IT Contractor</i> - Strategic Systems</li>
+        <p>August 2021-May 2022</p>
+        <p>Configure workstations at office locations according to instructions. Test hardware to ensure proper functionality. Had duration of work extended owing to strong performance.</p>
+        <h3>Internships</h3>
+        <li>SOAR365</li>
+        <p>February 2022-May 2022</p>
+        <p>Collected print and digital records to create a written history of the organization. Coordinated with staff remotely to submit drafts, present work and search locations for useful material.</p>
         <li>React</li>
       </ul>
       <ul>
