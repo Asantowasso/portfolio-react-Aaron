@@ -25,15 +25,18 @@ export default function Resume() {
         <li>SOAR365</li>
         <p>February 2022-May 2022</p>
         <p>Collected print and digital records to create a written history of the organization. Coordinated with staff remotely to submit drafts, present work and search locations for useful material.</p>
-        <li>React</li>
+        <li>Preservation Virginia</li>
+        <p>May 2020-December 2020</p>
+        <p>Undertake multimedia projects including writing, video editing and research. Pitch ideas to staff members for feedback and discussion.  </p>
       </ul>
       <ul>
-        <h3>Proficiencies-Back End</h3>
-        <li>Web APIs</li>
-        <li>Node</li>
-        <li>Express</li>
-        <li>SQL</li>
-        <li>MongoDB</li>
+        <h3>Education</h3>
+        <li>Web Development Bootcamp</li>
+        <p>August 2022-February 2023</p>
+        <p>A six month course teaching the fundamentals of JavaScript, HTML, CSS, SQL, Express.js, MongoDB and React. Completed weekly individual assignments as well as larger group projects.   </p>
+        <li>Bachelor of Arts - History</li>
+        <p>Randolph Macon College Graduated May 2020</p>
+        
       </ul>
 
       <iframe
