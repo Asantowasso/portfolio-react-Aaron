@@ -15,7 +15,7 @@ export default function Home() {
 
       <h3>Thanks for visiting my page. Here you will find information about my work, how to contact me and my up to date resume.</h3>
       <h3>More about Aaron-</h3>
-      <p>I'm Aaron Santowasso. I just recently graduated from a full stack development bootcamp provided through the University of Richmond. I have experience working on every aspect of a web application. This means I can build and style a front end with HTML, CSS or JSX. However I am also well versed in technologies that power the backend of applications and websites. These include SQL, MongoDB and RESTful. I am currently looking for junior development roles. I would prefer remote work but am willing to relocate.</p>
+      <p>My name is Aaron Santowasso and I am a multi-talented professional skilled in writing, communication, customer service, web development and time managment. Currently employed as an IT professional serving Truist a large commercial bank. I also have experience creating multimedia projects for non-profits informing the public about topics including American History and disability advocacy. Graduated from Randolph Macon College with a Bachelor's degree in History. Completed a six month course on web development through the University of Richmond. Gained experience working with a team to create full-stack web applicaitons. Thank you for visiting the site.  </p>
     </div>
   );
 }
