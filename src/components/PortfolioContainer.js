@@ -4,6 +4,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 import Home from "./pages/Home";
 import Work from "./pages/Work";
+// import Carousel from "./pages/Work"
 import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
 

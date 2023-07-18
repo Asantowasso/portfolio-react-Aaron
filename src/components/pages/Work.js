@@ -1,6 +1,7 @@
 import React from "react";
 import "../styles/Work.css";
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
+import 'pure-react-carousel/dist/react-carousel.es.css';
 import vet from "../assets/vetKP.jpg";
 import api from "../assets/API.png";
 import coffee from "../assets/coffee.jpg";
@@ -9,7 +10,7 @@ import quiz from "../assets/mapquiz.jpg";
 import table from "../assets/table.jpg";
 // This is the "myWork" page and it will be where my work will be showcased
 
-export default function Work() {
+// export default function Work() {
   
 const Carousel = () => {
   return (
@@ -19,7 +20,7 @@ const Carousel = () => {
     totalSlides={7}
     >
 
-    <Slider>
+    <Slider className="slides">
       <Slide index={0}>Slide 1</Slide>
       <Slide index={1}>Slide 2</Slide>
       <Slide index={2}>Slide 3</Slide>
@@ -28,14 +29,16 @@ const Carousel = () => {
       <Slide index={5}>Slide 6</Slide>
       <Slide index={6}>Slide 7</Slide>
     </Slider>
+    <ButtonBack className="B">Back</ButtonBack>
+    <ButtonNext className="A">Next</ButtonNext>
 
     </CarouselProvider>
   )
-}
-  
-  
-  
-  
+};
+export default Carousel;
+
+//  } 
+    
   
   
   
@@ -152,4 +155,4 @@ const Carousel = () => {
 
     
   // );
-}
+
