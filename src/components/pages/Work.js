@@ -1,5 +1,6 @@
 import React from "react";
 import "../styles/Work.css";
+import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
 import vet from "../assets/vetKP.jpg";
 import api from "../assets/API.png";
 import coffee from "../assets/coffee.jpg";
@@ -10,7 +11,27 @@ import table from "../assets/table.jpg";
 
 export default function Work() {
   
+const Carousel = () => {
+  return (
+    <CarouselProvider
+    naturalSlideWidth={100}
+    naturalSlideHeight={120}
+    totalSlides={7}
+    >
 
+    <Slider>
+      <Slide index={0}>Slide 1</Slide>
+      <Slide index={1}>Slide 2</Slide>
+      <Slide index={2}>Slide 3</Slide>
+      <Slide index={3}>Slide 4</Slide>
+      <Slide index={4}>Slide 5</Slide>
+      <Slide index={5}>Slide 6</Slide>
+      <Slide index={6}>Slide 7</Slide>
+    </Slider>
+
+    </CarouselProvider>
+  )
+}
   
   
   
